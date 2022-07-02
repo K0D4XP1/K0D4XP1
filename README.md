@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Malware Analysis Enthusiast | Cybersecurity Student | Solidity | Blockchain | CCNA | PYTHON | VB.NET | PHP | HTML | C | Malware Analyst | Student of you | Cyber ​​Defense | data protection | 🚀👨‍💻</div>  
+### <div align="center">Malware Analysis Enthusiast | Cybersecurity Student | Solidity | Blockchain | CCNA | PYTHON | VB.NET | PHP | HTML | C | Malware Analyst | IT Student | Cyber ​​Defense | data protection | 🚀👨‍💻</div>  
   
 
 - 🔭Programmer and currently uses the solidity language in his studies focused on blockchain, writes articles on topics related to information security and technology in general. He studies subjects related to cryptography, information security and malware. He is studying cyber defense and intends to do a master's degree in malware analysis. He has been in the IT field since 2020. He lives in Macaé-RJ.  
